@@ -16,3 +16,4 @@ CUDA_VISIBLE_DEVICES=$2 python3 main.py --config config/${CONFIG}.yaml \
     --ckpdir ${DIR}/ckpt/ \
     --outdir ${DIR}/result/ \
     # --load ${DIR}/ckpt/$1/best_ctc_LibriSpeech.pth \
+1234qwerAsdf
